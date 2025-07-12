@@ -1,1 +1,10 @@
-{"folders":[{"path":"."}],"settings":{"python.pythonPath":".\\.venv\\Scripts\\python.exe"}}
+{
+    "folders": [
+        {
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "python.pythonPath": "..\\.venv\\Scripts\\python.exe"
+    }
+}
